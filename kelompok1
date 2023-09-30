@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NEWS TIME</title>
+  <link rel="icon" type="images/x-icon" href="images/uin.png">
+</head>
+<body>
+    <!-- Container for the main content -->
+    <div style="font-family:verdana; background-color: rgb(20, 20, 18); color: white ; text-align: center ;font-size:100%; margin-left: 20%; margin-right: 20%; padding-left: 0%; padding-right: 0%;">
+        <br>
+        <!-- Title and author information -->
+        <p style="font-size: 300%; font-family: Javanese Text;"><b>Perpustakaan Zaman Now</p>
+        <p style="font-size: medium;">Oleh kelompok 1 </p>
+        <p style="font-size: medium;"><i>Kania Salsabilla - Kevin Adam - Siti Nur Oktavia - Sabrina Ayu Cahyani</i></p> 
+
+        <!-- Gambar dengan link -->
+        <a href="https://www.goethe.de/ins/id/en/sta/jak.html">
+            <img class="img_pos" src="images/g.jpg" height="500" width="807">
+        </a> 
+        <br>
+
+        <!-- Konten utama dengan deskripsi desain unik -->
+        <p style="font-family: cambria; font-size: 20px; padding-left: 5%; padding-right: 5%;">
+            Perpustakaan modern dengan desain unik dan <q>instagrameable</q> menjadi tren populer. 
+            Desain inovatif dan estetis menarik perhatian terutama generasi yang aktif di media sosial. Perpustakaan semacam ini menonjolkan arsitektur modern dengan bentuk futuristik dan fasad kaca yang mengesankan. 
+            Pencahayaan kreatif, lampu gantung artistik, dan cahaya alami melalui jendela besar menciptakan suasana istimewa. Rak buku dan furnitur berdesain kreatif, bersama dengan penggunaan warna berani dan pola mencolok pada dinding dan lantai, ikut memberikan kontribusi pada estetika yang mengesankan. Beberapa perpustakaan bahkan menawarkan ruangan tematik sesuai dengan koleksi atau topik tertentu, seperti galeri seni. Pameran seni, instalasi seni, dan area selfie khusus menambahkan unsur seni dan memungkinkan pengunjung berbagi pengalaman visual di media sosial. Dengan semua elemen ini, perpustakaan bukan hanya tempat belajar, tetapi juga destinasi wisata menarik dan ruang berbagi pengalaman estetis di era digital.
+            
+        <br>
+        <br>
+
+        <!-- Perkembangan perpustakaan dari waktu ke waktu -->
+        Seiring perkembangan waktu, perpustakaan di berbagai tempat, termasuk Taman Ismail Marzuki (TIM), dapat menyelenggarakan berbagai acara, konser, dan festival untuk memperkaya pengalaman pengunjung dan mendukung keberagaman kegiatan budaya.
+        <p>
+        <br>
+        <!-- Gambar night at the library TIM -->
+        <img src="images/n.jpg" width="200" height="200" style="margin: 20px 20px 20px 20px;"> <img src="images/tim.jpg" width="200" height="200" style="margin: 20px 20px 20px 20px;"> 
+
+        <!-- Styling untuk paragraf -->
+        <style>
+            p {
+                border: 2px solid hwb(51 0% 0%);
+            }
+        </style>
+        <body>
+            <p>
+                <br><mark> FESTIVAL SENI</mark>  <br>
+                <br>Menyelenggarakan festival seni yang melibatkan pameran seni visual, pertunjukan teater, dan aktivitas seni lainnya.
+            </p>
+            <p>
+                <br><mark> KONSER MUSIK </mark>  <br>
+                <br>Menyelenggarakan konser musik dengan berbagai genre, melibatkan musisi lokal maupun internasional.
+            </p>
+            <p>
+                <br><mark> PERTUNJUKAN SENI RUPA DAN PAMERAN FOTOGRAFI</mark>  <br>
+                <br>Menampilkan pertunjukan seni rupa, termasuk pameran lukisan, instalasi seni, atau karya seni visual lainnya. Menyelenggarakan pameran fotografi untuk memajukan seni fotografi dan memamerkan karya-karya fotografer.
+            </p>
+
+            <!-- Informasi lebih lanjut dengan link -->
+            <p style="background-color: white; color: black;"> Untuk selengkapnya,  <a href="https://instagram.com/perpusjkt?igshid=MzRlODBiNWFlZA==" target="_blank"> klik disini!</a> </p>
+
+    </div>
+</body>
+</html>
