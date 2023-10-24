@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: georgia;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 20%;
+   
+}
+
+p {
+    background-color: white;
+    color: black;
+    font-family: 'georgia';
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+ul {
+    padding-left: 64px;
+    color: black;
+    font-family: 'georgia';
+}
+
+a {
+    color: white;
+}
+
+table {
+    padding-left: 10px;
+    width: 20%;
+    border-left: 2px solid rgb(0, 0, 0);
+    margin-left: 12px;
+    font-family: 'georgia';
+}
+
+
+.wrapper-content {
+    background: white;
+    text-align: center;
+    color: black;
+    
+}
+
+
+.pback {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.back {
+    background-image: url(images/rena.jpg);
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    background-attachment: fixed;
+}
+
+.head {
+    text-align: center;
+}
+
+.head2 {
+    color: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+.par {
+    background-color: black;
+    color: white;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px solid rgb(255, 255, 255);
+    margin-left: 12px;
+}
+
+.wrapper-list {
+    background-color: black;
+}
+
+.box {
+  background-color: rgb(255, 255, 255);
+  border: 10px solid rgb(0, 0, 0);
+  border-style: groove;
+}
+
+.outline {
+        margin: 30px;
+        background:rgb(242, 255, 59);
+        border: 1px solid black;
+        outline: 1px solid rgb(46, 78, 255);
+        outline-offset: 15px;
+}
+
+.text {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+  
+.ol {
+    background: #000000;
+    padding: 20px;
+    color: white;
+  }
+
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Palatino Linotype;
+    font-size: larger;
+    width: 0%;
+    text-align: center;
+}
