@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gaya.css">
+    <link rel="icon" type="images/x-icon" href="images/LLL.png">
+    <script src="https://unpkg.com/feather-icons"></script>
+    <title>WE WILL WEAR</title>
+</head>
+<body>
+    <script src="java.js"></script>
+
+    <div class="toggle-btn" onclick="toggleSidebar()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <div class="sidenav">
+        <a href="history.html">History</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Editor.html">Editor</a>
+      </div>
+      
+
+    <nav>
+        <!-- Navigation menu with dropdown -->
+        <ul>
+            <li><a href="SNur_Oktavia_web_statis.html">Home</a></li>
+            <li><a href="#">About Us</a>
+                <ul>
+                    <li><a href="profile.html">Profile</a></li>
+                    <li><a href="Our Goals.html">Our Goals</a></li>
+                </ul>
+            </li>
+            <li><a href="Join Us.html">Join Us</a></li>
+            <li><a href="Contact Us.html">Contact Us</a></li>
+        </ul>
+    </nav>
+    <section>
+
+        <!-- Main content of the page -->
+        <img style="width: 60px; height: 60px;" src="images/LLL.png" alt="WE WILL WEAR Logo">
+        <p style="text-align: center;"><b>WE WILL WEAR!</b></p>
+        <!-- Add other content as needed -->
+    </section>
+
+    <p style=
+        "font-family: georgia; 
+        color: rgb(0, 0, 0); 
+        text-align: center;
+         margin-left: 10%; 
+         margin-right: 10%;">
+        Selamat datang di zona gaya santai 'we will wear'! Temukan inspirasi outfit santaimu dengan sentuhan warna yang beragam setiap harinya. 
+        Dari nuansa lembut pastel hingga warna-warna cerah, kami hadirkan koleksi outfit yang sesuai dengan selera dan suasana hatimu. 
+        Jelajahi gaya santaimu dengan warna-warna yang menakjubkan, dan biarkan penampilanmu menceritakan cerita keunikanmu.
+       <br>
+       <br>
+       <br>
+       <b><i>"Fashion is the armor to survive the reality of everyday life."</i> - Bill Cunningham</b>
+    </p>
+
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+        <img src="images/uuu.png" alt="Moving Image">
+    </marquee>
+    
+    <p style=
+    "font-family: georgia; 
+    color: rgb(0, 0, 0); 
+    text-align: center;
+     margin-left: 10%; 
+     margin-right: 10%;">
+        Memperhatikan penampilan memiliki beberapa kepentingan yang melampaui sekadar aspek kosmetik. 
+        Kesadaran akan peran penting penampilan terbukti dalam sejumlah alasan: Pertama, penampilan yang rapi dan perawatan diri yang baik dapat menciptakan kesan positif pertama kali bertemu dengan orang lain, mencerminkan pola pikir, kepercayaan diri, dan rasa tanggung jawab. 
+        Kedua, merawat penampilan diri dapat meningkatkan rasa percaya diri, menciptakan suasana mental yang positif, dan memengaruhi interaksi sosial secara positif. 
+        Ketiga, perawatan penampilan dianggap sebagai cara untuk menunjukkan penghargaan terhadap diri sendiri, mencerminkan kesadaran akan nilai diri dan tanggung jawab terhadap kesejahteraan pribadi. 
+        Keempat, penampilan yang dirawat dengan baik dapat memiliki dampak positif pada kesejahteraan mental, membantu mengurangi stres, dan meningkatkan mood. 
+        Kelima, di lingkungan profesional, penampilan yang rapi dan profesional dapat berkontribusi pada kesuksesan karier dengan memberikan kesan serius dan komitmen terhadap pekerjaan. 
+        Terakhir, penampilan mencerminkan penghargaan terhadap lingkungan sosial dan upaya untuk berkontribusi positif dalam interaksi sosial sehari-hari. 
+        Dengan memperhatikan penampilan, individu dapat membangun fondasi positif untuk interaksi sosial, memperkuat kepercayaan diri, dan menghargai nilai-nilai diri sendiri serta orang lain di sekitarnya.
+    </p>
+
+
+
+    <main>
+        <article>
+            <h2>"Gaya Fashion Hijab Wanita: Inspirasi Outfit Menarik untuk Setiap Kesempatan"</h2>
+            <p> Urbanco.co.id - Ramadan sebentar lagi lho, tentu sebagian besar dari kita harus mulai mempersiapkan diri terutama dalam hal berpakaian dan memperhatikan penampilan untuk tetap tampil fashionable pada setiap momen perayaan di bulan penuh berkah ini.
+                Biar nggak makin penasaran, ini dia beberapa Inspirasi Gaya Hijab Fashion Wanita Modern dan Trendi ala URBAN&CO yang bisa kamu dicoba di rumah!
+            </p>
+            <a href="https://urbanco.co.id/blogs/urbanco-style/inspirasi-gaya-hijab-fashion-wanita-modern-dan-trendi" class="read-more">Read More</a>
+        </article>
+    
+        <article>
+            <h2>"Seni Padu Padan: Strategi Cerdas Memilih Outfit dan Sepatu untuk Penampilan yang Modis"</h2>
+            <p> Setiap wanita selalu ingin tampil keren dalam setiap saat, bahkan saat santai sekali pun. Nah, salah satu cara agar bisa tampil memukau saat berbusana casual adalah dengan memakau sepatu casual wanita. 
+                Beberapa rekomendasi sepatu casual di atas bisa kamu jadikan pilihan tepat untuk tampil keren.
+            </p>
+            <a href="https://bp-guide.id/AXuujxbk" class="read-more">Read More</a>
+        </article>
+    
+        <article>
+            <h2>"Ekspresi Kreatif Melalui Ragam Gaya: Explorasi Fashion Pria dari Formal Hingga Santai"</h2>
+            <p> Buat kamu yang senang hangout di mal atau kafe bersama teman-teman kamu, tentu kamu sering mengadaptasi gaya casual atau streetstyle untuk keseharian kamu. 
+                Streetstyle yang bisa kamu kenakan untuk segala kesempatan kasual, masih menjadi trend pada spring
+            <a href="https://magazine.urbanicon.co.id/tips-gaya-fashion-pria/" class="read-more">Read More</a>
+        </article>
+    </main>
+
+<br>
+<br>
+<br>
+
+
+
+    <footer>
+        <p>&copy; 2023 WE WILL WEAR. Create by stnroktvia. | <a href="#">Official Website</a></p>
+    </footer>
+
+</body>
+</html>
